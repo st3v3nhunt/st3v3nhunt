@@ -13,3 +13,6 @@ Of late, I've developed a keen interest in game development using [GameMaker Stu
 
 #### Blog
 Although I have a long list of blog posts to write I rarely (never) prioritise them over other activities hence the current state of the [last post being from 2016](https://st3v3nhunt.github.io/) :sob:. A similar story with my [twitter account](https://twitter.com/st3v3nhunt) :black_circle:
+
+#### Stat
+![st3v3nhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=st3v3nhunt&show_icons=true&hide=stars&theme=radical)
