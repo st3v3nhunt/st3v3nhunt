@@ -27,10 +27,9 @@ open source nature of the development and licensing).
 
 ## Blog
 
-Although I have a long list of blog posts to write I rarely prioritise
-them over other activities hence the current state of only a
-[single post since 2016](https://st3v3nhunt.github.io/) :sob:. A similar
-story with my [twitter account](https://twitter.com/st3v3nhunt) :black_circle:
+I'm trying to prioritise writing [blog posts](https://st3v3nhunt.github.io/) at
+the moment so there may be some more activity than there has been in recent
+years!
 
 ## Stat
 
