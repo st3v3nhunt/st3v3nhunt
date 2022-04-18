@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Steven Hunt.
+I'm Steve Hunt.
 
 ## Work
 
@@ -13,26 +13,21 @@ I'm currently working at [Defra](https://github.com/defra) :earth_africa:
 
 I typically code in
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and I
-enjoy learning new languages. Most recently I've been dabbling in
+enjoy learning new languages. Recently I've been experimenting with
 [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/).
 [Exercism](https://exercism.io/) is my go to practice tool and I thoroughly
 enjoy challenges such as [Advent of Code](https://adventofcode.com/).
-
-## Game
-
-Of late, I've developed a keen interest in game development using
-[GameMaker Studio 2](https://www.yoyogames.com/gamemaker) and
-[Godot](https://godotengine.org/) (Godot being my current preference due to the
-open source nature of the development and licensing).
 
 ## Blog
 
 I'm trying to prioritise writing [blog posts](https://st3v3nhunt.github.io/) at
 the moment so there may be some more activity than there has been in recent
-years!
+years although this is not guaranteed!
 
 ## Stat
 
 [![st3v3nhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=st3v3nhunt&show_icons=true&hide=stars&theme=radical)](https://github.com/st3v3nhunt)
 
-[![stevenhunt's GitHub Skyline 2020](https://raw.githubusercontent.com/st3v3nhunt/st3v3nhunt/main/img/st3v3nhunt-github-skyline-2020.png)](https://skyline.github.com/st3v3nhunt/2020)
+[![st3v3nhunt's GitHub Skyline 2021](https://raw.githubusercontent.com/st3v3nhunt/st3v3nhunt/main/img/st3v3nhunt-github-skyline-2021.png)](https://skyline.github.com/st3v3nhunt/2021)
+
+[![st3v3nhunt's GitHub Skyline 2020](https://raw.githubusercontent.com/st3v3nhunt/st3v3nhunt/main/img/st3v3nhunt-github-skyline-2020.png)](https://skyline.github.com/st3v3nhunt/2020)
