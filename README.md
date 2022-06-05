@@ -28,4 +28,4 @@ years although this is not guaranteed!
 
 [![st3v3nhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=st3v3nhunt&show_icons=true&hide=stars&theme=radical)](https://github.com/st3v3nhunt)
 
-[![st3v3nhunt's GitHub Skyline 2020](https://raw.githubusercontent.com/st3v3nhunt/st3v3nhunt/main/img/st3v3nhunt-github-skyline-2020.png)](https://skyline.github.com/st3v3nhunt/2020)
+[![st3v3nhunt's GitHub Skyline 2021](https://raw.githubusercontent.com/st3v3nhunt/st3v3nhunt/main/img/st3v3nhunt-github-skyline-2021.png)](https://skyline.github.com/st3v3nhunt/2021)
