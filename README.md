@@ -20,7 +20,7 @@ enjoy challenges such as [Advent of Code](https://adventofcode.com/).
 
 ## Blog
 
-I'm trying to prioritise writing [blog posts](https://st3v3nhunt.github.io/) at
+I'm trying to prioritise writing [blog posts](https://blog.st3v3nhunt.me/) at
 the moment so there may be some more activity than there has been in recent
 years although this is not guaranteed!
 
