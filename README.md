@@ -17,8 +17,8 @@ Over the years I've written a lot of
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and more recently
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 I enjoy learning new languages and dip in and out of experimenting with
-
 [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/).
+
 [Exercism](https://exercism.io/) is my go to practice tool and I enjoy taking
 part in [Advent of Code](https://adventofcode.com/).
 
