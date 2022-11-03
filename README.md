@@ -4,25 +4,28 @@ I'm Steve Hunt.
 
 ## Work
 
-I'm currently working at [Defra](https://github.com/defra) :earth_africa:
-:tractor: as a Lead Developer. I've previously worked at
+I'm currently working at [Made Tech](https://github.com/madetech) as a
+[Lead Software Engineer](https://github.com/madetech/handbook/blob/main/roles/lead_software_engineer.md).
+Before I joined Made Tech I was working at [Defra](https://github.com/defra)
+:earth_africa: :tractor: as a Lead Developer. And before that I worked at
 [NHS.UK](https://github.com/nhsuk), mostly on projects helping people
 [find services](https://www.nhs.uk/service-search) :hospital:.
 
 ## Code
 
-I typically code in
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and I
-enjoy learning new languages. Recently I've been experimenting with
+Over the years I've written a lot of
+[C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and more recently
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+I enjoy learning new languages and dip in and out of experimenting with
+
 [Go](https://golang.org/) and [Rust](https://www.rust-lang.org/).
-[Exercism](https://exercism.io/) is my go to practice tool and I thoroughly
-enjoy challenges such as [Advent of Code](https://adventofcode.com/).
+[Exercism](https://exercism.io/) is my go to practice tool and I enjoy taking
+part in [Advent of Code](https://adventofcode.com/).
 
 ## Blog
 
-I'm trying to prioritise writing [blog posts](https://blog.st3v3nhunt.me/) at
-the moment so there may be some more activity than there has been in recent
-years although this is not guaranteed!
+I infrequently blog at [blog.st3v3nhunt.me](https://blog.st3v3nhunt.me/) with
+sporadic bursts of activity!
 
 ## Stat
 
